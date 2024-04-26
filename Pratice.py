@@ -1,2 +1,2 @@
-result = print("Hello World")
+result = print("hello world")
 print(result)
